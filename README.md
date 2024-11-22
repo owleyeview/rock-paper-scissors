@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-This is a simple single page web application for the classic game of Rock, Paper, Scissors. The game is built using vanilla JavaScript, HTML, and CSS.
+This is a simple single page web application for the classic game of Rock, Paper, Scissors. Built from a provided Figma design using vanilla JavaScript, HTML, and CSS.
 
 ## How to Play
 
